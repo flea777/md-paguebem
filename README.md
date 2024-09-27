@@ -10,7 +10,7 @@ Este documento é a entrega parcial do Riseup - Squad 21, segue o link para os t
 
 2. **Planejamento do desenvolvimento:** 
   - Backlog/Trello: https://trello.com/b/XTJmjQ2D/gest%C3%A3o-de-tarefas-novo-site-pbb <br>
-  - Detalhamento das histórias do usuário e critérios de aceitação:
+  - Detalhamento das histórias do usuário e critérios de aceitação: https://github.com/flea777/md-paguebem/blob/main/historias.md
 
 3. **Especificação técnica:** 
   - Stack de desenvolvimento: https://github.com/flea777/md-paguebem/blob/main/dock-stacks.md <br>
